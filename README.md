@@ -18,6 +18,7 @@ Is there a platform or detail missing, or have you spotted something wrong? This
 | Cesppa | USA | [@inspectiv](https://twitter.com/inspectiv) | ✅ | 🤫 + 📣  | ✅ | ❓ | ❓ |
 | Cobalt | USA | [@cobalt_io](https://twitter.com/cobalt_io) | ✅ | 🤫 | ✅ | https://app.cobalt.io/pentesters | ❓ |
 | Crowdswarm | United Arab Emirates | ❓ | ✅ | 🤫 + 📣  | ✅ | ❓ | https://app.crowdswarm.io/p.html |
+| Cyber3ra | India | ❓ | ✅ | 🤫 + 📣 | ✅ | https://cyber3ra.com | ❓ |
 | Cyber Army Indonesia | Indonesia | [@cyberarmyid](https://twitter.com/cyberarmyid) | ✅ | 🤫 + 📣  | ✅ | https://www.cyberarmy.id/leaderboard | https://www.cyberarmy.id/programs |
 | Detectify | Sweden | [@detectify](https://twitter.com/detectify) | ✅ | 🤫 | ✅ | ❓ | ❓ |
 | Dvuln | Australia | [@d_vuln](https://twitter.com/d_vuln) | ✅ | 🤫 | ✅ | ❓ | https://securityat.me/vdp_directory |
